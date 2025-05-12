@@ -1,5 +1,8 @@
 **Library Management System Database**
+
 **Description**
+
+
 This project implements a MySQL database for a Library Management System. It manages:
 
 Books and their authors (many-to-many relationship)
